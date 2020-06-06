@@ -1,6 +1,6 @@
 # Hello World em Ruby on Rails
 
-Antes de tudo, caso queira ver um vídeo autoexplicativo ao invés de ler o texto abaixo, clique aqui: 
+Antes de tudo, caso queira ver um vídeo autoexplicativo ao invés de ler o texto abaixo, clique aqui: https://youtu.be/lbaUQUEdIbY
 
 Primeiramente, crie uma pasta a onde você colocará o projeto. Colocamos seu nome como: “Rails”. Navegue até ela com o comando “cd” na linha de comando. No nosso caso, será: 
 
